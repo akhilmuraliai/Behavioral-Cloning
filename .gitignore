@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.idea/
+*.log
+*.zip
+behavioural-cloning/Data/IMG/
+behavioural-cloning/simulator/
+road-signs-classifier/german-traffic-signs/test.p
+road-signs-classifier/german-traffic-signs/train.p
+road-signs-classifier/german-traffic-signs/valid.p
